@@ -5,10 +5,10 @@
 - AtCoder: https://atcoder.jp/users/horologe
 
 # 経歴、出たコンテストなど
-2023年04月 石川工業高等専門学校 電子情報工学科 入学
-2023年10月 高専プロコン課題部門本戦出場 [リポジトリ](https://github.com/horologe/imagine-quest) [パンフレット(p20)](https://www.procon.gr.jp/uploads/download/BayiZnZwVAA)
-2024年03月 株式会社AsianBridgeのハッカソンで優勝 [リポジトリ](https://github.com/AsianChallengeCup/acc001_team_a)
-2025年02月 日本情報オリンピック本戦出場
+2023年04月 石川工業高等専門学校 電子情報工学科 入学  
+2023年10月 高専プロコン課題部門本戦出場 [リポジトリ](https://github.com/horologe/imagine-quest) [パンフレット(p20)](https://www.procon.gr.jp/uploads/download/BayiZnZwVAA)  
+2024年03月 株式会社AsianBridgeのハッカソンで優勝 [リポジトリ](https://github.com/AsianChallengeCup/acc001_team_a)  
+2025年02月 日本情報オリンピック本戦出場  
 
 # 資格
 - 基本情報技術者試験(2024年10月取得)
@@ -21,6 +21,7 @@
 - React, Next.JS
 - Java
 - PHP
+- C/C++
 など
 
 # 見てほしいリポジトリ
